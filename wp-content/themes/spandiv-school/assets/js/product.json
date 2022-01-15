@@ -1,0 +1,199 @@
+[
+	{
+		"client": [
+			{
+				"idClient": "1",
+				"category": "5",
+				"codeRole" : "1",
+				"name": "Class Mates",
+				"url": "#",
+				"src": "wp-content/themes/spandiv/assets/images/client/webp/1.webp",
+				"description": "Lorem ipsum dolor sit amet."
+			},
+			{
+				"idClient": "2",
+				"category": "2",
+				"codeRole" : "1",
+				"name": "Bossgreen",
+				"url": "#",
+				"src": "wp-content/themes/spandiv/assets/images/client/webp/2.webp",
+				"description": "Lorem ipsum dolor sit amet."
+			},
+			{
+				"idClient": "3",
+				"category": "3",
+				"codeRole" : "1",
+				"name": "SMK N 1 Mandiraja",
+				"url": "https://smkn1mandiraja.sch.id/",
+				"src": "wp-content/themes/spandiv/assets/images/client/webp/3.webp",
+				"description": "Lorem ipsum dolor sit amet."
+			},
+			{
+				"idClient": "4",
+				"category": "6",
+				"codeRole" : "1",
+				"name": "Pesantren Semarang",
+				"url": "https://rania.unaux.com/",
+				"src": "wp-content/themes/spandiv/assets/images/client/webp/4.webp",
+				"description": "Lorem ipsum dolor sit amet."
+			},
+			{
+				"idClient": "5",
+				"category": "2",
+				"codeRole" : "1",
+				"name": "Sikos",
+				"url": "https://sikos.unaux.com/",
+				"src": "wp-content/themes/spandiv/assets/images/client/webp/5.webp",
+				"description": "Lorem ipsum dolor sit amet."
+			},
+			{
+				"idClient": "6",
+				"category": "2",
+				"codeRole" : "2",
+				"name": "Akuntansi Online",
+				"url": "https://akuntansionline.net/",
+				"src": "wp-content/themes/spandiv/assets/images/client/webp/6.webp",
+				"description": "Lorem ipsum dolor sit amet."
+			},
+			{
+				"idClient": "7",
+				"category": "1",
+				"codeRole" : "2",
+				"name": "Campusnet",
+				"url": "https://campusnet.id/",
+				"src": "wp-content/themes/spandiv/assets/images/client/webp/7.webp",
+				"description": "Lorem ipsum dolor sit amet."
+			},
+			{
+				"idClient": "8",
+				"category": "5",
+				"codeRole" : "2",
+				"name": "Campusnet LMS",
+				"url": "https://demo.campusnet.id/",
+				"src": "wp-content/themes/spandiv/assets/images/client/webp/8.webp",
+				"description": "Lorem ipsum dolor sit amet."
+			},
+			{
+				"idClient": "9",
+				"category": "2",
+				"codeRole" : "2",
+				"name": "Bisa Indonesia",
+				"url": "https://bisa.co.id/",
+				"src": "wp-content/themes/spandiv/assets/images/client/webp/9.webp",
+				"description": "Lorem ipsum dolor sit amet."
+			},
+			{
+				"idClient": "10",
+				"category": "2",
+				"codeRole" : "2",
+				"name": "Campus Digital",
+				"url": "https://campusdigital.id/",
+				"src": "wp-content/themes/spandiv/assets/images/client/webp/10.webp",
+				"description": "Lorem ipsum dolor sit amet."
+			},
+			{
+				"idClient": "11",
+				"category": "2",
+				"codeRole" : "2",
+				"name": "Kompetensiku",
+				"url": "https://kompetensiku.id/",
+				"src": "wp-content/themes/spandiv/assets/images/client/webp/11.webp",
+				"description": "Lorem ipsum dolor sit amet."
+			},
+			{
+				"idClient": "12",
+				"category": "2",
+				"codeRole" : "2",
+				"name": "Campus",
+				"url": "https://campus.co.id/",
+				"src": "wp-content/themes/spandiv/assets/images/client/webp/12.webp",
+				"description": "Lorem ipsum dolor sit amet."
+			},
+			{
+				"idClient": "13",
+				"category": "7",
+				"codeRole" : "2",
+				"name": "Campus Solusi",
+				"url": "https://campus.web.id/",
+				"src": "wp-content/themes/spandiv/assets/images/client/webp/13.webp",
+				"description": "Lorem ipsum dolor sit amet."
+			},
+			{
+				"idClient": "14",
+				"category": "7",
+				"codeRole" : "2",
+				"name": "PersonalityTalk",
+				"url": "https://personalitytalk.id/",
+				"src": "wp-content/themes/spandiv/assets/images/client/webp/14.webp",
+				"description": "Lorem ipsum dolor sit amet."
+			},
+			{
+				"idClient": "15",
+				"category": "7",
+				"codeRole" : "2",
+				"name": "Wonolopo Shop",
+				"url": "https://wonoloposhop.com/",
+				"src": "wp-content/themes/spandiv/assets/images/client/webp/15.webp",
+				"description": "Lorem ipsum dolor sit amet."
+			},
+			{
+				"idClient": "16",
+				"category": "7",
+				"codeRole" : "2",
+				"name": "Teaching Factory SMK N 1 Polewali",
+				"url": "https://tefasmkn1polewali.com/",
+				"src": "wp-content/themes/spandiv/assets/images/client/webp/16.webp",
+				"description": "Lorem ipsum dolor sit amet."
+			}
+		],
+
+		"categoryList": [
+			{
+				"idCategory": "1",
+				"categoryPrice" : "500.000",
+				"categoryName": "Landing Page"
+			},
+			{
+				"idCategory": "2",
+				"categoryPrice" : "1.000.000",
+				"categoryName": "Company Profile"
+			},
+			{
+				"idCategory": "3",
+				"categoryPrice" : "1.750.000",
+				"categoryName": "Website Sekolah"
+			},
+			{
+				"idCategory": "4",
+				"categoryPrice" : "2.000.000",
+				"categoryName": "Website Rumah Sakit"
+			},
+			{
+				"idCategory": "5",
+				"categoryPrice" : "2.000.000",
+				"categoryName": "LMS"
+			},
+			{
+				"idCategory": "6",
+				"categoryPrice" : "3.000.000",
+				"categoryName": "CMS"
+			},
+			{
+				"idCategory": "7",
+				"categoryPrice" : "1.000.000",
+				"categoryName": "Ecommerce"
+			}
+		],
+
+		"roleList": [
+			{
+				"idRole": "1",
+				"codeName" : "SP01"
+			},
+			{
+				"idRole": "2",
+				"codeName" : "CL01"
+			}
+		]
+	}
+]
