@@ -233,7 +233,7 @@ if ( ! class_exists( 'WP_Bootstrap_Navwalker' ) ) :
                 $atts['href']          = '#';
                 $atts['data-toggle']   = 'dropdown';
                 $atts['aria-expanded'] = 'false';
-                $atts['class']         = 'dropdown-toggle nav-link'.$active;
+                $atts['class']         = 'dropdown-toggle nav-link' . $active;
                 $atts['id']            = 'menu-item-dropdown-' . $item->ID;
             } else {
                 if ( true === $this->has_schema ) {
@@ -243,9 +243,9 @@ if ( ! class_exists( 'WP_Bootstrap_Navwalker' ) ) :
                 $atts['href'] = ! empty( $item->url ) ? $item->url : '#';
                 // For items in dropdowns use .dropdown-item instead of .nav-link.
                 if ( $depth > 0 ) {
-					$atts['class'] = 'dropdown-item'.$active;
+					$atts['class'] = 'dropdown-item' . $active;
                 } else {
-					$atts['class'] = 'nav-link'.$active;
+					$atts['class'] = 'nav-link' . $active;
                 }
             }
 

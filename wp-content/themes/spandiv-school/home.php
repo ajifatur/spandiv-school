@@ -12,9 +12,7 @@
 
 <?php get_template_part('template-parts/navbar'); ?>
 
-<?php if(!is_front_page()) : get_template_part('template-parts/hero'); endif; ?>
-
-<section class="section-content">
+<section class="my-5">
     <div class="container">
         <div class="row">
             <div class="col-lg-9 mb-4 mb-lg-0">

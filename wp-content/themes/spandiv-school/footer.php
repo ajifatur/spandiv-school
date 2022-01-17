@@ -12,13 +12,11 @@
  */
 
 ?>
-    <footer class="<?= is_front_page() || is_page('profil') ? 'bg-primary-gradient' : '' ?>">
-        <div class="footer-container">
-            <div class="container py-5">
-                <div class="d-flex justify-content-between">
-                    <p class="mb-0 text-white small">Copyright © <?= date('Y') ?> <span style="font-family: 'M PLUS Code Latin', sans-serif;">./Spandiv</span> | Bikin website murah hanya di Spandiv</p>
-                    <a href="#" class="mb-0 text-white small">Kebijakan Privasi</a>
-                </div>
+    <footer class="bg-secondary">
+        <div class="container py-5">
+            <div class="d-flex justify-content-between">
+                <p class="mb-0 text-white small">Copyright © <?= date('Y') ?> <span style="font-family: 'M PLUS Code Latin', sans-serif;">./Spandiv</span> | Bikin website murah hanya di Spandiv</p>
+                <a href="#" class="mb-0 text-white small">Kebijakan Privasi</a>
             </div>
         </div>
     </footer>
